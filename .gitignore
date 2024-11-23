@@ -1,3 +1,11 @@
+# Config Server
+config-server/target/
+config-server/.idea/
+
+# Discovery Server
+discovery-server/target/
+discovery-server/.idea/
+
 # Compiled class file
 *.class
 
